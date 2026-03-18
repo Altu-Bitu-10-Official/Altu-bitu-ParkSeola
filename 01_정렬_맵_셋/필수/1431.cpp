@@ -60,6 +60,5 @@ int main()
 		cout << sn[i] << '\n';
 	}
 
-
 	return 0;
 }
